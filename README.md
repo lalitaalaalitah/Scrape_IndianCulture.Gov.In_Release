@@ -50,6 +50,7 @@ with
             download_this_category = 'y'
 
 
+------------------
 
 And for automating download of all PDF related to each category ---
 
