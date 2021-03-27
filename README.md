@@ -39,6 +39,8 @@ This script is created for practising python. Please, don't abuse the website. U
 
 ## Automatic download
 
+For automating download of all three categories of PDF, i.e. rare books, manuscripts, eBooks ---
+
 Replace
 
             download_this_category = input('do you want to download this category of PDF? yes(y), No(n)\n')
@@ -47,9 +49,9 @@ with
 
             download_this_category = 'y'
 
-for automating download of all three categories of PDF, i.e. rare books, manuscripts, eBooks.
 
-And
+
+And for automating download of all PDF related to each category ---
 
 Replace
 
