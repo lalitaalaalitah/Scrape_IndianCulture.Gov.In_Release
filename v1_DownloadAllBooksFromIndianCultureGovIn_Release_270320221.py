@@ -1,4 +1,4 @@
-#! /usr/local/bin/python
+#! /usr/local/bin/python ## Replace with your virtualenv
 import requests# Install as --- pip install requests
 from bs4 import BeautifulSoup as bs# Install as --- pip install bs4
 from datetime import datetime
