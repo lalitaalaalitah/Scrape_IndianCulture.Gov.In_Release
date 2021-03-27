@@ -3,7 +3,15 @@
 ## Info
 
 A website by Government of India contains many Rarebooks, Manuscripts and eBooks, etc.
+
 This script is created to collect those books.
+
+Rarebooks are more than 700 GB.
+Manuscripts are more than 130 GB.
+eBooks size is not known.
+
+This script is created for practising python. Please, don't abuse the website. Use this script to download only needed items.
+
 
 ## How to Use
 
