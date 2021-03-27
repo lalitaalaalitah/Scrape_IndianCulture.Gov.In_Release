@@ -10,9 +10,9 @@ This script is created to collect those books.
 1. Create a new virtual environment, source it or add to shebang in the main script.
 2. Install requests and bs4
 
-    a. pip iustall requests
+        pip install requests
 
-    b. pip install bs4
+        pip install bs4
 
 3. cd to the directory where script is located.
 4. Run as
