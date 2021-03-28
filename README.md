@@ -6,7 +6,7 @@ A website by Government of India contains many Rarebooks, Manuscripts and eBooks
 
 This script is created to collect those books.
 
-Rarebooks are more than 700 GB.
+Rarebooks are more than 1.2 TB.
 Manuscripts are more than 130 GB.
 eBooks size is not known.
 
