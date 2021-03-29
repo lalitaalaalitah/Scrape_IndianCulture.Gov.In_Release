@@ -1,5 +1,13 @@
 # Read Me
 
+## v2
+
+Added a new category : Other Collection
+It contains mostly catalogues.
+It is not yet checked.
+Report issues if found.
+Feel free to fork and submit corrections.
+
 ## Info
 
 A website by Government of India contains many Rarebooks, Manuscripts and eBooks, etc.
